@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(227, 224, 245)
+}
+
+.swiper-button-next:after,
+.swiper-button-prev:after{
+    color: #e2a5a2;
+}
+
+.swiper-pagination-progressbar .swiper-pagination-progressbar-fill{
+    background: #f8c9c9 !important
+}
+
+html::-webkit-scrollbar{
+    display: none;
+}
+
+
+html{
+    scrollbar-width: none;
+}
+
+:root{
+  font-size: 16px;
+}
+
+@media only screen and (max-width:768px){
+  :root{
+  font-size: 12px;
+
+}
+}
+
+#mobile i{
+color: aqua;
+}
