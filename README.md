@@ -1,26 +1,26 @@
 # car-listing
 ## Introducing the problem 
-Renting or buying a car can be a stressful and time-consuming process. There are many options to choose from, and it's often difficult to compare prices and features. In addition, there is no easy way to search for a car based on specific needs or preferences.
+Renting or buying a car can be a stressful and time-consuming process. There are many options to choose from, and it's often difficult to compare prices and features.
 ## Target audience 
-Target audience is anyone who is looking to rent or buy a car. This includes people who are relocating, people who need a car for a specific event or occasion, and people who are looking for a new car. The target audience is located all over the world, and we aim to provide a solution that is easy to use and accessible to everyone.
+Target audience is anyone who is looking to rent or buy a car. This includes people who are relocating, people who need a car for a specific event or occasion, and people who are looking for a new car. The target audience is located all over the world, and I aim to provide a solution that is easy to use and accessible to everyone.
 ## Solution 
 The solution is a car listing website that makes it easy to compare prices, features, and availability for all types of cars. With the website, users can search for a car based on their specific needs and preferences, such as price range, location, and car features. Will also provide a platform for users to connect with each other and share their experiences with car rental or buying.
 ## Benefits of using provided solution
  The benefits of using super car listing website include:
-+ Saving time by being able to compare prices and features in one place.
-+ Having access to a wide range of options from all over the world.
-+ Being able to search for cars based on specific needs and preferences.
-+ Connecting with other users and getting insights and recommendations from them.
+> Saving time by being able to compare prices and features in one place.
+> Having access to a wide range of options from all over the world.
+> Being able to search for cars based on specific needs and preferences.
+> Connecting with other users and getting insights and recommendations from them.
 ## Learning Objectives
 ### Users will be able to -
-   + Comprehend the core concept of the car listing website as a solution to simplify the car search process.
-   + Learn how to tailor their car searches based on specific criteria such as price range, location, and car features.
-   + Recognize how the platform saves time by offering a centralized location for comparing car prices and features.
-   + Understand how the platform provides access to a wide range of car options from various locations around the world.
-   + Comprehend the customization options available for searching cars based on individual needs, preferences, and requirements.
-   + Learn to use the platform's tools effectively to refine car search results.
-   + Recognize the value of the platform's user community in sharing experiences and recommendations for car rental or purchase.
-   + Understand how to engage with other users to gain insights and make informed decisions when seeking a car.
+> Comprehend the core concept of the car listing website as a solution to simplify the car search process.
+> Learn how to tailor their car searches based on specific criteria such as price range, location, and car features.
+> Recognize how the platform saves time by offering a centralized location for comparing car prices and features.
+> Understand how the platform provides access to a wide range of car options from various locations around the world.
+> Comprehend the customization options available for searching cars based on individual needs, preferences, and requirements.
+> Learn to use the platform's tools effectively to refine car search results.
+> Recognize the value of the platform's user community in sharing experiences and recommendations for car rental or purchase.
+> Understand how to engage with other users to gain insights and make informed decisions when seeking a car.
 ## Technologies used
 ![IMG-20230917-WA0006](https://github.com/elameen37/car-listing/assets/57746361/04ff81a2-6429-473c-8d39-c2b2cbc59cee)
 + React 18
