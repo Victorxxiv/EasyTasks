@@ -1,4 +1,4 @@
-# car-listing
+# SuperCars-listing
 ## Introducing the problem 
 Renting or buying a car can be a stressful and time-consuming process. There are many options to choose from, and it's often difficult to compare prices and features.
 ## Target audience 
